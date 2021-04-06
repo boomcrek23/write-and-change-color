@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin:0;
+}
+
+h3 {
+  text-align: center;
+}
+  textarea {
+    color:#F12345;
+    background-color: black;
+    min-width:80%;
+    min-height:35vw;
+  }
