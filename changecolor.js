@@ -3,8 +3,6 @@ var txt = document.getElementById("txtarea");
 var basic = "#F12345";
 // const basic color
 const nbasic = ["F", "1", "2", "3", "4", "5"];
-// numbers generator
-var r;
 // color
 var colore;
 //letters & numbers
