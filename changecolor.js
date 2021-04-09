@@ -1,6 +1,8 @@
 var txt = document.getElementById("txtarea");
 // basic color
 var basic = "#F12345";
+// const basic color
+const nbasic = ["F", "1", "2", "3", "4", "5"];
 // color
 var colore;
 //letters & numbers
